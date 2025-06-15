@@ -87,7 +87,7 @@ WHERE students.age > 18
 
 **Surya Prakash**
 📧 [suryaprakash@gmail.com](mailto:suryaprakash@gmail.com)
-🌐 [GitHub](https://github.com/suryaprakash)
+🌐 [GitHub](https://github.com/suryaprakash068)
 
 ---
 
