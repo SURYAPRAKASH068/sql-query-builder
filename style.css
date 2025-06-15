@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.tables, .builder {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.table {
+  background: #2196f3;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+  cursor: grab;
+  border-radius: 5px;
+}
+
+#drop-area {
+  min-height: 100px;
+  border: 2px dashed #aaa;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#fields {
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+pre {
+  background: #222;
+  color: #0f0;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
